@@ -9,10 +9,12 @@ body {
 
 .blog{
     color: slateblue;
-    border: 10px solid white;
-    length: 500px;
-    width: 500px; 
+    background-color: white;
+    border: 5px solid white;
     text-align: center;
-
+    padding: 10px;
+    margin: auto; 
+    margin-bottom: 50px;
+    width:50%
 }
 
