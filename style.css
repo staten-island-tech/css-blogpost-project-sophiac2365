@@ -1,14 +1,14 @@
 body{
     background-color:lightslategrey;
     color:snow;
-    font-size: 20px;
+    font-size: 25px;
     font-family: 'Gemunu Libre', sans-serif;
     text-align: center;
     margin: 25px;
 }
 
 .blog{
-    border: 10px solid whitesmoke;
+    border: 10px solid gray;
     background-color:whitesmoke;
     text-align: center; 
     color:steelblue;
